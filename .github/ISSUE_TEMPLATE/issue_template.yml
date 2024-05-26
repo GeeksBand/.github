@@ -6,6 +6,7 @@ body:
   id: what-your-idea
   attributes:
     label: Tell us your idea
+    description: "Tell us your idea"
   validations:
     required: true
 
