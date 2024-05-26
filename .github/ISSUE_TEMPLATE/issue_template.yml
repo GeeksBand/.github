@@ -1,4 +1,11 @@
 name: "Feature Request"
-- type: markdown
+title: "[Feature]: "
+labels: ["feature"]
+body:
+- type: textarea
+  id: what-your-idea
   attributes:
-    value: "## Welcome!"
+    label: Tell us your idea
+  validations:
+    required: true
+
