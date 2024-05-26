@@ -1,12 +1,13 @@
 name: "Feature Request"
 title: "[Feature]: "
 labels: ["feature"]
+description: "Tell us your idea"
 body:
 - type: textarea
   id: what-your-idea
   attributes:
     label: Tell us your idea
-    description: "Tell us your idea"
+   
   validations:
     required: true
 
